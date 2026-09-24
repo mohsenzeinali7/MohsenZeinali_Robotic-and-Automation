@@ -1,0 +1,69 @@
+Mohsen Zeinali
+Curriculum vitae
+PERSONAL DETAILS AND DATE OF THE CV
+Surname	Zeinali
+First names	Mohsen
+Place of residence	Pori, Finland
+Email	x9465025@student.uwasa.fi
+
+LinkedIn	linkedin.com/in/mohsenzeinali1991robotic
+
+Date of the CV	21 September 2026
+DEGREES
+Feb 2014	Bachelor of Science (B.Sc.), Computer Engineering (Software)
+Islamic Azad University, Isfahan, Iran
+Feb 2012	Associate degree, Computer Engineering (Software)
+Islamic Azad University, Isfahan, Iran
+In progress	Master of Science in Technology, University of Vaasa, Finland (see Current employment).
+OTHER EDUCATION AND EXPERTISE
+Technical competences
+Programming	Python, C, C++, MATLAB/Simulink, C#, SQL, RAPID, Bash
+Autonomous systems	Kalman filtering (KF, EKF, RTS smoother), GNSS/INS integration, UWB positioning, IMU dead reckoning, RTKLIB, coordinate transforms
+Robotics and vision	ROS 2, SLAM, RViz2, Gazebo, TF2, OpenCV, YOLO, ABB RobotStudio
+Embedded and control	Embedded Linux, Raspberry Pi 5, POSIX threads, IPC (sockets, semaphores), libgpiod, PWM, UART/SPI/I2C, PID tuning, state-space modelling
+ML, data and tools	TensorFlow/Keras, PyTorch, scikit-learn, pandas, NumPy, Power BI, MySQL, SQLite, ETL, Linux, Git, GNU Make, UiPath
+LANGUAGE SKILLS
+Persian	Native language
+English	Professional working proficiency; TOEFL iBT, total score 98 (test date 4 September 2024)
+Finnish	Beginner (self-assessment)
+CURRENT EMPLOYMENT
+Sep 2025 – present	Full-time student, Master of Science in Technology
+Master’s Programme in Computing Sciences, major in Automation and Robotics (120 ECTS)
+University of Vaasa, Finland; studies based in Pori
+Master’s thesis scheduled for the academic year 2026–2027.
+Coursework includes Navigation Technologies for Autonomous Systems, GNSS Technologies, Intelligent Robots, Machine Vision for Robotics, Machine Learning, Embedded C Programming, Introduction to Robotics, Principles of Control, Probability and Stochastic Processes, Modern Wireless Communications and Applications.
+PREVIOUS WORK EXPERIENCE
+Jan 2019 – Jun 2025	Software Engineer
+Shekofa Products Distribution Company, Iran
+Built an internal administrative portal (C#, SQL) for tracking customer interactions and purchase histories; improved usability through iterative troubleshooting and workflow optimisation; wrote technical documentation and worked with stakeholders on system improvements.
+2015 – 2019	STEM and Programming Instructor
+Iran (manager: Mehdi Soroush)
+Taught programming and STEM subjects (see Teaching merits).
+TEACHING MERITS
+2015 – 2019	Teaching experience: STEM and Programming Instructor, Iran
+Designed curriculum and taught programming and STEM subjects to students of mixed ability, building foundational technical literacy across multiple cohorts.
+OTHER MERITS
+Selected course projects, M.Sc. studies, University of Vaasa
+2026	Autonomous navigation and sensor fusion pipeline | Python, MATLAB
+Course: Navigation Technologies for Autonomous Systems 
+•	Fused UWB and IMU sensor streams with an Extended Kalman Filter, reaching 0.04–0.10 m mean absolute error in indoor positioning against ground truth over 1,200+ time steps.
+•	Trained a TensorFlow/Keras CNN to predict steering angles from camera frames and built an OpenCV inference pipeline with motion smoothing for evaluation on driving video.
+2026	RGB-D SLAM and real-time vision pipeline | ROS 2, OpenCV
+Course: Machine Vision for Robotics
+•	Built a ROS 2 Jazzy workspace converting RGB-D depth streams into 2D occupancy maps with slam_toolbox, including custom depth-to-LaserScan conversion and odometry TF broadcasting.
+•	Developed OpenCV nodes for Sobel edge detection and HSV segmentation; integrated YOLO object detection on simulated Gazebo cameras through ros_gz_bridge.
+2026	Autonomous courier delivery robot | Python
+Course: Intelligent Robots 
+•	Designed the localisation and navigation subsystem for a six-wheeled delivery robot: hybrid map-based and behaviour-based architecture with EKF fusion of encoder, IMU and ToF data. Quantified IMU drift against GNSS/UWB correction in Python.
+2026	Embedded Linux control and IPC server | C, Raspberry Pi 5
+Course: Embedded C Programming 
+•	Developed a multi-threaded C server (POSIX threads, mutexes, semaphores) that ingests joystick inputs over TCP sockets and drives servo motors through software PWM and libgpiod GPIO interrupts.
+•	Implemented IPC with Linux signals, pipes, and fork/execve; added SQLite persistence and a UART serial link (9600 baud) to a TI MSP432 microcontroller.
+2025	GNSS software-defined receiver | MATLAB, RTKLIB
+Course: GNSS Technologies
+•	Implemented a full GPS L1 C/A software receiver (acquisition, tracking, navigation) producing a 1 Hz solution with 1.96 m 3D RMS error and PDOP 1.48 from 11 satellites.
+•	Showed that multi-GNSS (GPS + Galileo) fusion reduced 3D error by 19% (2.86 m to 2.32 m) and raised availability to 100%.
+2025	Robotic palettizing cell | ABB RobotStudio, RAPID
+Course: Introduction to Robotics 
+•	Programmed an ABB IRB 1660ID to palletize a 4×24 grid using dynamic work-object frame offsetting, generating all positions from a single taught target with nested-loop index arithmetic.
+
